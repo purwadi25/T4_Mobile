@@ -1,3 +1,3 @@
 # T4-Mobile
-## Nama : Didy Ardiyanto
-## NIM : F1D02310046
+## Nama : Lalu Ahmad Purwadi
+## NIM : F1D02310115
